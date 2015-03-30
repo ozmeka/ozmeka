@@ -1,5 +1,5 @@
 # ozmeka
-This is a project to adapt Omeka 2 for use in eResearch, mainly in the Austrailan context. 
+This is a project to adapt Omeka 2 for use in eResearch, mainly in the Australian context. 
 
 Project goals include:
 * Adapting Omeka to support cross-disciplinary research data collections (TODO: @sharynys expand)
